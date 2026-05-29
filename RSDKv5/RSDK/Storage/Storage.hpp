@@ -1,5 +1,6 @@
 #ifndef STORAGE_H
 #define STORAGE_H
+#include <cstdlib>
 
 namespace RSDK
 {
